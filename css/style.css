@@ -1,0 +1,75 @@
+body{
+    margin : 0;
+    text-align: center;
+}
+header {
+    background-color: #588C94;
+    color: white;
+    padding: 30px 0;
+    text-align: center;
+}
+/*-----------------MAIN PART ------------------ */
+main{
+    background-color: lightblue;
+    padding: 5%;
+}
+#intro p {
+    text-align: center;
+    font-size: 200%;
+    font-weight: 500;
+    font-family: cursive;
+    margin: 2% 10%;
+}
+#myskills h1 {
+    font-size: 350%;
+    font-weight: bold;
+    font-family: cursive;
+    width: 50%;
+    margin: 5% auto;
+}
+#myskills #side_heading1{
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: left;
+    padding: 5%;
+}
+#myskills #side_heading1 img{
+    float: right;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+#myskills #side_heading1 h2{
+    font-size: 250%;
+    font-family: cursive;
+}
+#myskills #side_heading1 p{
+    font-size: 130%;
+    font-family: cursive;
+}
+#myskills #side_heading2{
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: left;
+    padding: 5%;
+}
+#myskills #side_heading2 img{
+    float: right;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+#myskills #side_heading2 h2{
+    font-size: 250%;
+    font-family: cursive;
+}
+#myskills #side_heading2 p{
+    font-size: 130%;
+    font-family: cursive;
+}
+
+/* -------------FOOTER------------- */
+footer {
+    background-color: #588C94;
+    color: white;
+    padding: 30px 0;
+    text-align: center;
+}
